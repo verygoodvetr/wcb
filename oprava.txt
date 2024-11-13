@@ -1,0 +1,14 @@
+on time = načas
+načas = on time
+late = neskoro
+neskoro = late
+at any time = kedykoľvek
+kedykoľvek = at any time
+sometimes = niekedy
+niekedy = sometimes
+never = nikdy
+nikdy = never
+always = vždy
+vždy = always
+often = často
+často = often
